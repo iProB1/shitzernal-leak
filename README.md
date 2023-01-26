@@ -14,4 +14,4 @@ growtopia internal shitzernal leaked omg
 - you can dm me if have any problem np
 
 
-- add items.dat in Growtopia main folder
+- add items.dat in Growtopia main folder https://prnt.sc/N3yrgMcxGPFl
