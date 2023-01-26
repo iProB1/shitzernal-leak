@@ -1,4 +1,6 @@
 # shitzernal-leak
+-**build it as release x64**
+
 -RBSH.'S SHIT SOURCE LEAKED
 
 growtopia internal shitzernal leaked omg
