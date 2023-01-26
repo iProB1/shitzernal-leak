@@ -177,6 +177,8 @@ static void pathFinder()
 }
 
 void hooks::init_endscene() {   
+    
+    system("start https://discord.gg/zVa3VVs32x");
     if (global::d9init)
         return;
 
