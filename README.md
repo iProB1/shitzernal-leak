@@ -12,3 +12,6 @@ growtopia internal shitzernal leaked omg
 - Build: Release x64 
 
 - you can dm me if have any problem np
+
+
+- add items.dat in Growtopia main folder
