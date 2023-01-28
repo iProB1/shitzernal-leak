@@ -1,5 +1,5 @@
 # shitzernal-leak
--RBSH.'S SHIT SOURCE LEAKED
+-RBSH.'S SHIT SOURCE LEAKED - i didnt add any feature to this source
 
 growtopia internal shitzernal leaked omg
 
